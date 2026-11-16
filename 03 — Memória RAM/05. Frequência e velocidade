@@ -1,1 +1,27 @@
+## 05. Frequência e velocidade (MHz/MT/s)
+
+A velocidade da memória RAM indica a quantidade de transferências de dados realizadas por segundo.
+
+É comum encontrar memórias anunciadas como:
+- DDR4 2400.
+- DDR4 3200.
+- DDR5 4800.
+- DDR5 5600.
+- DDR5 6000.
+
+Diferença entre MHz e MT/s:
+- MHz: milhões de ciclos por segundo.
+- MT/s: milhões de transferências por segundo.
+
+Como DDR realiza duas transferências por ciclo, uma memória com clock real de 1600 MHz pode operar a 3200 MT/s.
+
+| Velocidade comercial | Clock real aproximado |
+|---|---|
+| DDR4-2400 | 1200 MHz |
+| DDR4-3200 | 1600 MHz |
+| DDR5-4800 | 2400 MHz |
+| DDR5-5600 | 2800 MHz |
+| DDR5-6000 | 3000 MHz |
+
+Para memorizar: quando encontrar DDR4 3200, normalmente o valor comercial indica 3200 MT/s, não 3200 MHz de clock físico.
 
