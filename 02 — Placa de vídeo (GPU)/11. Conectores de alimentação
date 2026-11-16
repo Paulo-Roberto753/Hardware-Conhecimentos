@@ -1,1 +1,31 @@
+## 11. Conectores de alimentação
+
+Os conectores fornecem energia elétrica adicional à placa de vídeo.
+
+### Principais padrões:
+
+| Conector | Característica |
+|---|---|
+| PCIe 6-pin | Alimentação adicional |
+| PCIe 8-pin | Alimentação adicional de maior capacidade |
+| 12VHPWR | Conector de alimentação de 16 pinos |
+| 12V-2x6 | Evolução do conector de 16 pinos |
+
+### Informações importantes:
+
+- O slot PCIe também fornece energia.
+- Algumas placas não precisam de cabo adicional.
+- Outras utilizam um ou mais conectores de 8 pinos.
+- Modelos mais potentes podem utilizar 12VHPWR ou 12V-2x6.
+
+### Cuidados na instalação:
+
+- Verificar o conector exigido pela GPU.
+- Utilizar cabos compatíveis com a fonte.
+- Não forçar encaixes.
+- Evitar adaptadores inadequados.
+- Garantir que o conector esteja completamente encaixado.
+- Evitar dobrar excessivamente o cabo próximo ao conector.
+
+> **Atenção:** nunca utilize cabos modulares de outra fonte sem confirmar a compatibilidade. O encaixe pode ser igual, mas a pinagem pode ser diferente.
 
