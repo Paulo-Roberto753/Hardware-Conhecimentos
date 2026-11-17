@@ -1,1 +1,30 @@
+## 11. Compatibilidade: como escolher um SSD NVMe?
+
+Antes de instalar um SSD NVMe, é necessário verificar a compatibilidade com a placa-mãe ou notebook.
+
+**Principais pontos:**
+
+| Verificação | O que analisar |
+|---|---|
+| Slot M.2 | Se o equipamento possui conexão M.2. |
+| Protocolo | Se o slot suporta NVMe PCIe ou somente SATA. |
+| Geração PCIe | PCIe 3.0, 4.0, 5.0 etc. |
+| Pistas | x2 ou x4 disponíveis. |
+| Formato | 2230, 2242, 2260, 2280 ou 22110. |
+| Chave | Compatibilidade física do conector. |
+| Capacidade | Limites e suporte informados pelo fabricante. |
+| Dissipação | Espaço e suporte para dissipador. |
+
+### Exemplo de compatibilidade
+
+Imagine uma placa-mãe com:
+
+- Slot M.2 NVMe PCIe 4.0 x4.
+- Suporte ao formato 2280.
+
+Um SSD PCIe 4.0 x4 2280 é compatível com essa configuração, desde que o slot e o equipamento não tenham outras restrições.
+
+Um SSD PCIe 5.0 x4 também pode funcionar em muitos slots PCIe 4.0, mas operará na geração mais baixa compatível.
+
+**Regra importante:** PCIe possui compatibilidade entre gerações, mas o dispositivo funciona conforme a geração mais baixa suportada entre SSD, slot e plataforma.
 
