@@ -1,1 +1,25 @@
+## 03. Chipset: gerenciamento de comunicação
+
+O chipset é um conjunto de circuitos responsáveis por controlar e disponibilizar diferentes recursos de comunicação da placa-mãe.
+
+Ele influencia a quantidade de conexões, portas e recursos disponíveis na plataforma.
+
+[commons.wikimedia.org](https://commons.wikimedia.org)
+
+**Exemplos de recursos que podem ser controlados ou disponibilizados pelo chipset:**
+
+- Portas USB.
+- Conexões SATA.
+- Determinadas pistas PCIe.
+- Recursos de expansão.
+- Interfaces e funcionalidades adicionais.
+
+**Exemplos de chipsets:**
+
+| Fabricante | Linhas de chipset |
+|---|---|
+| Intel | H610, B760, Z790, B860, Z890. |
+| AMD | A520, B550, B650, B850, X670, X870. |
+
+**Importante:** os recursos exatos dependem do chipset, do processador e do projeto da placa-mãe. Nem todas as conexões disponíveis no chipset precisam estar implementadas pelo fabricante.
 
