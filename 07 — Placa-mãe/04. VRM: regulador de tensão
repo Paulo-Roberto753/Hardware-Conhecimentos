@@ -1,1 +1,27 @@
+## 04. VRM: regulador de tensão
+
+VRM (*Voltage Regulator Module*) é o circuito responsável por regular e fornecer tensões adequadas aos componentes da placa-mãe, principalmente ao processador.
+
+O processador trabalha com tensões específicas e precisa receber energia de maneira estável.
+
+[corsair.com](https://www.corsair.com)
+
+**Principais componentes do VRM:**
+
+| Componente | Função |
+|---|---|
+| MOSFETs | Controlam a conversão e a comutação de energia. |
+| Chokes (indutores) | Armazenam energia temporariamente e ajudam a suavizar a corrente. |
+| Capacitores | Auxiliam na filtragem e estabilização elétrica. |
+| Controlador PWM | Gerencia a operação do circuito regulador. |
+| Dissipadores | Ajudam a remover o calor dos componentes. |
+
+**Como funciona:**
+
+1. A fonte fornece energia à placa-mãe.
+2. O circuito VRM realiza a conversão e regulação da tensão.
+3. A energia é entregue ao processador conforme sua necessidade.
+4. O sistema ajusta a alimentação de acordo com a carga de trabalho.
+
+**Importante:** a qualidade do VRM e sua capacidade de dissipação influenciam a estabilidade do sistema, especialmente com processadores de alto consumo.
 
